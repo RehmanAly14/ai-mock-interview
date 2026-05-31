@@ -259,7 +259,7 @@ Field:
 
 ---
 
-# ⚙️ Getting Started
+#  Getting Started
 
 ## Prerequisites
 
