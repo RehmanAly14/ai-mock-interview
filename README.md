@@ -404,7 +404,7 @@ Custom TypeScript type definitions.
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 * Voice-based interview support
 * Webcam-based mock interviews
