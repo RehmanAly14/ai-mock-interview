@@ -4,7 +4,7 @@ An intelligent, interactive platform that conducts mock interviews using Google'
 
 ---
 
-# 🚀 Features
+#  Features
 
 ## AI-Powered Mock Interviews
 
