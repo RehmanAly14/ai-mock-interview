@@ -46,7 +46,7 @@ An intelligent, interactive platform that conducts mock interviews using Google'
 
 ---
 
-# 🛠️ Tech Stack & Libraries
+#  Tech Stack & Libraries
 
 ## Frontend
 
