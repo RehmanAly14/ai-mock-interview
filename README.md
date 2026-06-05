@@ -269,7 +269,7 @@ Field:
 
 ---
 
-# 📦 Installation Guide
+#  Installation Guide
 
 ## 1. Clone the Repository
 
