@@ -121,7 +121,7 @@ An intelligent, interactive platform that conducts mock interviews using Google'
 
 ---
 
-# 🏗️ Project Architecture & Workflow
+#  Project Architecture & Workflow
 
 ## 1. Database Schema (Prisma)
 
