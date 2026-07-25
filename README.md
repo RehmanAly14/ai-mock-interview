@@ -391,7 +391,7 @@ Custom TypeScript type definitions.
 
 ---
 
-# 🌟 Key Highlights
+#  Key Highlights
 
 * AI-driven interview preparation platform
 * Real-time answer analysis
