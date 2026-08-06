@@ -161,7 +161,7 @@ Contains AI evaluation including:
 
 ---
 
-# 🔄 Application Flow
+#  Application Flow
 
 ## Step 1: Onboarding
 
