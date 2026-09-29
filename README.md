@@ -385,11 +385,6 @@ Static assets:
 * Icons
 * Logos
 
-### `/types`
-
-Custom TypeScript type definitions.
-
----
 
 #  Key Highlights
 
